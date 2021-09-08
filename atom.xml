@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lcsin.github.io</id>
     <title>lcsin</title>
-    <updated>2021-09-08T11:39:40.962Z</updated>
+    <updated>2021-09-08T11:51:40.783Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lcsin.github.io"/>
     <link rel="self" href="https://lcsin.github.io/atom.xml"/>
@@ -10,4 +10,52 @@
     <logo>https://lcsin.github.io/images/avatar.png</logo>
     <icon>https://lcsin.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, lcsin</rights>
+    <entry>
+        <title type="html"><![CDATA[Go相关学习资源]]></title>
+        <id>https://lcsin.github.io/post/golang#resources/</id>
+        <link href="https://lcsin.github.io/post/golang#resources/">
+        </link>
+        <updated>2021-09-08T11:49:36.000Z</updated>
+        <content type="html"><![CDATA[<p>视频教程<br>
+千峰入门教程</p>
+<p>千峰进阶教程</p>
+<p>千峰 Gin 实战教程</p>
+<p>六个科技 Gin+Vue 前后端分离</p>
+<p>慕课并发编程教程</p>
+<p>清华伊成 Go 实战</p>
+<p>文档教程<br>
+教程</p>
+<p>Go 语言圣经<br>
+Go 语言标准库<br>
+Gin 官方文档<br>
+GORM 官方文档<br>
+go-study-index<br>
+Go 知识图谱<br>
+地鼠文档<br>
+千峰 go 视频教程配套文档<br>
+博客</p>
+<p>李文周李文周的博客<br>
+曹春晖曹春晖<br>
+煎鱼链接<br>
+Tony Bai链接</p>
+<p>社区</p>
+<p>GoCN 社区GoCN 社区<br>
+Go 语言中文网Go 语言中文网<br>
+Go 社区 Wiki社区 Wiki</p>
+<p>B站 up主</p>
+<p>JunedaydayJunedayday<br>
+幼麟实验室幼麟实验室<br>
+七米qimi七米qimi<br>
+GopherChinaGopherChina<br>
+刘丹冰Aceld刘丹冰Aceld<br>
+Go夜读Go夜读<br>
+面向加薪学习面向加薪学习<br>
+弯曲的一条虫弯曲的一条虫<br>
+书文教育书文教育<br>
+橙卡-bydmm橙卡-bydmm<br>
+软件工艺师 软件工艺师</p>
+<p>网盘资源</p>
+<p>极客时间：c8hx  https://cloud.189.cn/web/share?code=yIbuMnUFjmYz</p>
+]]></content>
+    </entry>
 </feed>
