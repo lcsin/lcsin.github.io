@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lcsin.github.io</id>
     <title>lcsin</title>
-    <updated>2021-09-08T11:56:49.559Z</updated>
+    <updated>2021-09-08T12:02:36.233Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lcsin.github.io"/>
     <link rel="self" href="https://lcsin.github.io/atom.xml"/>
@@ -18,8 +18,12 @@
         <updated>2021-09-08T11:49:36.000Z</updated>
         <content type="html"><![CDATA[<h1 id="视频教程">视频教程</h1>
 <h2 id="千峰入门教程">千峰入门教程</h2>
-<p>讲师人美声甜，全程干活无尿点<br>
+<blockquote>
+<p>讲师人美声甜，全程干货无尿点<br>
 地址：https://www.bilibili.com/video/BV1k4411G7yy?zw</p>
+</blockquote>
+<h2 id="千峰阶级教程">千峰阶级教程</h2>
+<p>与入门教程是同一个讲师，风格无变化</p>
 ]]></content>
     </entry>
 </feed>
